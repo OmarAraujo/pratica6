@@ -1,0 +1,5 @@
+C:\Users\Omar\Documents\SharpDevelop Projects\menu pratica6\menu pratica6\obj\Debug\menu pratica6.csprojResolveAssemblyReference.cache
+C:\Users\Omar\Documents\SharpDevelop Projects\menu pratica6\menu pratica6\bin\Debug\menu pratica6.exe
+C:\Users\Omar\Documents\SharpDevelop Projects\menu pratica6\menu pratica6\bin\Debug\menu pratica6.pdb
+C:\Users\Omar\Documents\SharpDevelop Projects\menu pratica6\menu pratica6\obj\Debug\menu pratica6.exe
+C:\Users\Omar\Documents\SharpDevelop Projects\menu pratica6\menu pratica6\obj\Debug\menu pratica6.pdb
